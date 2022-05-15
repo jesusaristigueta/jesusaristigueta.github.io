@@ -1,2 +1,2 @@
-# jesusaristigueta.github.io
+# jesusaristigueta.com
 Personal Website hosted at GitHub Pages
