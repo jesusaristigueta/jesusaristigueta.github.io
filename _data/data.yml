@@ -1,0 +1,213 @@
+sidebar:
+    about: False 
+    education: False 
+
+    # Profile information
+    name: Jesus Aristigueta
+    tagline: Ingeniero Mecatrónico
+    avatar: profile.png
+
+    # Sidebar links
+    email: jesusaristigueta@gmail.com
+    phone: '+584241534552'
+    citizenship:
+    website: jesusaristigueta.com 
+    linkedin: jesusaristigueta
+    xing: 
+    github: jesusaristigueta
+    telegram: 
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: 
+    codewars:
+    goodreads:
+    pdf: './assets/docs/CV Jesus Aristigueta.pdf'
+
+    languages:
+      - idiom: Español
+        level: Nativo
+
+      - idiom: Inglés
+        level: Intermedio
+
+    interests:
+      - item: Aprendizaje online
+        link:
+
+      - item: Fotografía
+        link:
+
+      - item: Lectura
+        link:
+
+      - item: Blogging
+        link:
+
+career-profile:
+    title: Biografía
+    summary: |
+      En construcción.
+education:
+    - degree: Ingeniero Mecatrónico
+      university: Universidad Nacional Experimental Politécnica "Antonio José de Sucre", V.R. "Luis Caballero Mejías"
+      time: 10/2011 - 10/2016
+      details: |
+        Estudios que se fundamentan en una carrera multidisciplinaria de la ingeniería, la cual desarrolla soluciones y 
+        tecnologías de varios campos del conocimiento en los que se unen las ramas de sistemas, electrónica, mecánica y control, 
+        con el uso combinado de la robótica, ingeniería electrónica y ciencias de la Computación/Sistemas.
+    - degree: Educación Media General en Ciencias
+      university: U.E.C. "San Martín de Porres"
+      time: 09/1997 - 06/2010
+      details: 
+experiences:
+    - role: Coordinador de Infraestructura Tecnológica
+      time: 12/2019 - Presente
+      company: Fondo de Valores Inmobiliarios, S.A.C.A.
+      details: |
+        Responsabilidades:
+          - Monitoreo y Administración de Infraestructura IT.
+          - Administración de plataformas físicas y virtuales, basadas en Windows / Linux. Hyper-V, Failover cluster.
+          - Administración de servicios: Active Directory, Exchange 2016, Skype for Bussiness 2015, Veeam Backup & Replication, Bacula, RDS, PrintServer, FileServer, Zabbix, PRTG, osTicket, Wordpress.
+          - Manejo de BD PostgreSQL, MySQL, MSSQL, Oracle.
+    - role: Especialista de Soporte Técnico
+      time: 12/2017 - 12/2019
+      company: Fondo de Valores Inmobiliarios, S.A.C.A.
+      details: |
+        Responsabilidades
+          - Monitoreo y Administración de Infraestructura IT.
+          - Soporte Técnico Nivel 1 y Nivel 2.
+          - Administración básica de plataformas físicas y virtuales.
+    - role: Ingeniero especialista en Mecatrónica
+      time: 10/2016 - 06/2017
+      company: Maxdrone Venezuela
+      details: |
+        Responsabilidades:
+          - Pilotaje, mantenimiento y reparación de drones.
+          - Instructor de vuelo para Academia Maxdrone Venezuela.
+          - Investigación, desarrollo e innovación de software y hardware referentes a la tecnología de drones.
+    - role: Pasante de Ingeniería Mecatrónica
+      time: 05/2016 - 10/2016
+      company: Maxdrone Venezuela
+      details: |
+        Responsabilidades:
+          - Pilotaje, mantenimiento y reparación de drones.
+          - Diseño de altímetro digital para drones.
+projects:
+    title: Proyectos
+    intro: >
+      Resumen general de algunos de los proyectos realizados.
+    assignments:
+      - title: Diseño de un módulo para registro de altitud con microcontrolador para drone para Maxdrone Venezuela
+        link:
+        tagline: "El proyecto consistió en diseñar un módulo capaz de registrar la altitud de un drone, remotamente en tiempo real y en un soporte físico, integra la programación y manejo de datos. Integra un sensor de presión barométrica digital, una memoria microSD como soporte físico y un reloj en tiempo real (RTC). Basado en un microcontrolador de 8-bits PIC18LF27J53."
+
+      - title: Implementación de Sistema HelpDesk para Fondo de Valores Inmobiliarios
+        link:
+        tagline: "Instalación, configuración y parametrización del sistema osTicket para la gestión de requerimientos del área de Tecnología en Fondo de Valores Inmobiliarios y Unidades de Negocios."
+
+      - title: Instalación Microsoft Exchange 2016 Enterprise para Fondo de Valores Inmobiliarios
+        link:
+        tagline: "Instalación, configuración y parametrización del servidor de correo electrónico corporativo Microsoft Exchange 2016 on-premises para Fondo de Valores Inmobiliarios, realizando la migración de +700 buzones en version 2013, configuración de cluster DAG."
+
+      - title: Implementación de Sistema de Reporte de Cobranzas interno para Fondo de Valores Inmobiliarios
+        link:
+        tagline: "Instalación, configuración y parametrización de un sistema para la gestión interna de reportes de cobranzas, utilizando base de datos PostgreSQL, Directus como Frontend / CRUD, Webhook desarrollado en NodeJS para la actualización masiva y cálculos sobre algunos campos en BD. Esta implementación se complementa con el software Metabase como herramienta de Inteligencia de Negocios, donde se generan Dashboards dinámicos mensuales."
+
+      - title: Sincronización de Tasa cambiara para Fondo de Valores Inmobiliarios 
+        link:
+        tagline: "Software de Web Scrapping para obtener la tasa cambiara oficial del Banco Central de Venezuela para las diferentes divisas que ofrece, inserta en múltiples bases de datos SQL (MSSQL, MySQL, PSSQL)."
+
+      - title: Integración Whatsapp - Node-Red
+        link:
+        tagline: "Desarrollo de un websocket custom mediante librerías de JavaScript para integrar workflows de procesos en software Node-Red, creando Bots de Whatsapp para notificaciones personalizadas, interacción con Bosque Active Directory, etc."
+
+publications:
+    title: Cursos
+    intro: |
+      Resumen de algunos cursos realizados en modalidad presencial y on-line.
+    papers:
+
+      - title: Curso de Administración de Servidores Linux
+        link: "https://platzi.com/p/jesusaristigueta/course/1667-linux/diploma/detalle/"
+        authors: Platzi - ID 1db53727-4daa-437a-8837-af6e288e26e9
+        conference: "04/2022"
+
+      - title: Guía para Aprender Seguridad Informática
+        link: "https://platzi.com/p/jesusaristigueta/course/2241-guia-seguridad-informatica/diploma/detalle/"
+        authors: Platzi - ID f3a726b4-3dfb-4b20-838a-6eedb29eb3ef
+        conference: "03/2022"
+
+      - title: Curso de Introducción a la Terminal y Línea de Comandos
+        link: "https://platzi.com/p/jesusaristigueta/course/2292-terminal/diploma/detalle/"
+        authors: Platzi - ID 867e8bb9-9d5e-4330-a0bf-88fd52813f96
+        conference: "03/2022"
+
+      - title: Curso Básico de Seguridad Informática para Empresas
+        link: "https://platzi.com/p/jesusaristigueta/course/1647-seguridad-empresas/diploma/detalle/"
+        authors: Platzi - ID be858d07-49e8-4d36-8056-2a43769cefab
+        conference: "03/2022"
+
+      - title: Fundamentos de Ingeniería de Software
+        link: "https://platzi.com/p/jesusaristigueta/curso/1098-ingenieria/diploma/detalle/"
+        authors: Platzi - ID 71e2e416-2cbe-4ad2-9657-d208d15abecd
+        conference: "03/2022"
+
+      - title: Comité de Seguridad y Salud Laboral
+        link: 
+        authors: IP SOLUTION C.A.
+        conference: "12/2016"
+
+      - title: Piloto Remoto de Drones multirrotores Ligeros
+        link: 
+        authors: Academia Maxdrone Venezuela
+        conference: "05/2016"
+
+      - title: Entrenamiento Industrial
+        link: 
+        authors: UNEXPO, Núcleo Guarenas
+        conference: "04/2016"
+
+      - title: Accidentabilidad a razón del Uso del Celular
+        link: 
+        authors: IP SOLUTION C.A.
+        conference: "02/2016"
+
+      - title: El ABC de la Seguridad
+        link: 
+        authors: IP SOLUTION C.A.
+        conference: "02/2016"
+
+      - title: Curso Básico Java - Oracle SQL
+        link: 
+        authors: Dictado por Francisco Morales
+        conference: "07/2018 - 02/2019"
+
+skills:
+    title: Habilidades
+
+    toolset:
+
+      - name: Responsabilidad
+        level: 83%
+
+      - name: Motivación
+        level: 74%
+
+      - name: Solución de problemas
+        level: 85%
+
+      - name: Diseño y desarrollo de hardware
+        level: 75%
+
+      - name: Desarrollo de software
+        level: 68%
+
+      - name: Pensamiento crítico
+        level: 82%
+
+      - name: Cooperación
+        level: 70%
+
+footer: >
+    

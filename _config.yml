@@ -1,0 +1,30 @@
+# Site Settings
+title: Jesus Aristigueta
+url: 'https://jesusaristigueta.com'
+#baseurl: '/online-cv' 
+
+description: Jesus Aristigueta CV
+theme_skin: ceramic # blue turquoise green berry orange ceramic
+chrome_mobile_color: 1976d2 
+
+# Tracker
+analytics: 'G-FYPVSS8DQ5'
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Build settings
+compress-site: yes
+
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
+
+# Development Settings
+port: 4000
+host: 0.0.0.0
+safe: false
