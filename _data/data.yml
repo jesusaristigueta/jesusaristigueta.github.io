@@ -61,6 +61,16 @@ education:
       time: 09/1997 - 06/2010
       details: 
 experiences:
+    - role: Gerente de Infraestructura Tecnológica
+      time: 06/2022 - Presente
+      company: Verkle Holding, C.A.
+      details: |
+        Responsabilidades:
+          - Monitoreo y Administración de Infraestructura IT.
+          - Administración de plataformas físicas y virtuales, basadas en Windows / Linux. Hyper-V.
+          - Administración de servicios: Active Directory, Veeam Backup & Replication, RDS, PrintServer, FileServer, Wordpress.
+          - Manejo de BD PostgreSQL, MySQL, MSSQL.
+          - Soporte a servicios Cloud en Microsoft Azure: SAP Business One.
     - role: Coordinador de Infraestructura Tecnológica
       time: 12/2019 - 06/2022
       company: Fondo de Valores Inmobiliarios, S.A.C.A.
@@ -189,25 +199,25 @@ skills:
     toolset:
 
       - name: Responsabilidad
-        level: 83%
+        level: 93%
 
       - name: Motivación
-        level: 74%
+        level: 79%
 
       - name: Solución de problemas
-        level: 85%
+        level: 88%
 
       - name: Diseño y desarrollo de hardware
-        level: 75%
+        level: 77%
 
       - name: Desarrollo de software
-        level: 68%
+        level: 75%
 
       - name: Pensamiento crítico
         level: 82%
 
       - name: Cooperación
-        level: 70%
+        level: 75%
 
 footer: >
     
