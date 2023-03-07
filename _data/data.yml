@@ -139,6 +139,11 @@ publications:
       Resumen de algunos cursos realizados en modalidad presencial y on-line.
     papers:
 
+      - title: Curso Ethical Hacking/Red Team 3ra edición Hacker Mentor
+        link: "https://verified.sertifier.com/en/verify/49266638903065"
+        authors: HACKERMENTOR CIBERSEGURIDAD S.A.S. - ID 49266638903065
+        conference: "03/2023"
+
       - title: Curso de Administración de Servidores Linux
         link: "https://platzi.com/p/jesusaristigueta/course/1667-linux/diploma/detalle/"
         authors: Platzi - ID 1db53727-4daa-437a-8837-af6e288e26e9
